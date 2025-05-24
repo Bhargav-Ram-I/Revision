@@ -1,4 +1,4 @@
-# Student Data Tracker (Easy Version)
+# Student Data Tracker 
 
 ## 💡 Features:
 - Add student name, roll number, and marks
